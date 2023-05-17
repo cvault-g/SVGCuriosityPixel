@@ -1,2 +1,24 @@
 # SVGCuriosityPixel
-Unleash your creativity with the unique blend of SVG and pixel art. Discover a collection of pixelated SVG artworks and gaming-inspired GUI icons. Explore retro aesthetics, embrace the versatility of SVG, and infuse your designs with nostalgic charm. Dive into a world of pixelated wonders and bring your imagination to life with SVGCuriosityPixel.
+
+SVGCuriosityPixel is a project that combines pixel art with SVG, offering a collection of pixel art and GUI icons for creative projects. This project was inspired by GUI ICON 2.0 on itch.io.
+
+# Origins
+This project was inspired by GUI ICON 2.0 on itch.io, which provided a unique collection of GUI icons. SVGCuriosityPixel aims to extend the concept by offering pixelated SVG artworks in addition to GUI icons.
+
+# License
+SVGCuriosityPixel is released under the MIT License.
+
+# Feedback and Contributions
+Feedback and contributions are welcome! Feel free to open an issue or submit a pull request on the GitHub repository.
+# SVGCuriosityPixel
+
+SVGCuriosityPixel is a project that combines pixel art with SVG, offering a collection of pixel art and GUI icons for creative projects. This project was inspired by GUI ICON 2.0 on itch.io.
+
+# Origins
+This project was inspired by GUI ICON 2.0 on itch.io, which provided a unique collection of GUI icons. SVGCuriosityPixel aims to extend the concept by offering pixelated SVG artworks in addition to GUI icons.
+
+# License
+SVGCuriosityPixel is released under the MIT License.
+
+# Feedback and Contributions
+Feedback and contributions are welcome! Feel free to open an issue or submit a pull request on the GitHub repository.
